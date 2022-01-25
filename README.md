@@ -14,7 +14,7 @@ A website in which customers can reserve rockets and mission of space-X. Built w
 
 - [Github](https://github.com/Ugboaja-Uchechi)
 
--[LinkedIn](https://www.linkedin.com/in/stephanie-ugboaja-930a2a216/)
+- [LinkedIn](https://www.linkedin.com/in/stephanie-ugboaja-930a2a216/)
 
 ## Built With
 
