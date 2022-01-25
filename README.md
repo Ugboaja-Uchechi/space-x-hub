@@ -2,6 +2,10 @@
 
 A website in which customers can reserve rockets and mission of space-X. Built with Space X API
 
+## Live Demo
+
+- [Live Link](https://mystifying-wing-161827.netlify.app/)
+
 ## Authors
 
 👤 **Chuanqi Zhu**
