@@ -1,6 +1,6 @@
 ## Project Description
 
-A website in which customers can reserve rockets and mission of space-X
+A website in which customers can reserve rockets and mission of space-X. Built with Space X API
 
 ## Authors
 
@@ -17,8 +17,9 @@ https://www.linkedin.com/in/stephanie-ugboaja-930a2a216/
 
 ## Built With
 
-React
-Redux
+- React
+
+- Redux
 
 ## Available Scripts
 
